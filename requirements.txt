@@ -1,0 +1,7 @@
+Django==4.1.7
+python-telegram-bot==20.0
+openai==0.27.0
+telebot==3.8.0
+google-api-python-client==2.42.0
+youtube-transcript-api==0.4.1
+python-dotenv==0.21.1
